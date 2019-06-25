@@ -1,1 +1,2 @@
 # exerciciospython
+lista com funcoes
