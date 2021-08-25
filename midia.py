@@ -1,5 +1,7 @@
 import pygame
 print("Click no play")
+print("---------------")
+
 file = 'midia.mp3'
 pygame.init()
 pygame.mixer.init()
