@@ -12,5 +12,6 @@ print(emoji.emojize("Olá, Mundo! :sunglasses:", use_aliases=True))
 
 f = float(input("Digite um numero float para ver seu inteiro:"))
 print("{} agora é {} ".format(f, math.trunc(f)))
+prnti("--------------------------------")
 
 
